@@ -1,16 +1,15 @@
 # Hi there 👋, I'm Mobolaji Olamide
-    A Frontend Developer
+A Frontend Developer
     
 - :hammer: I’m currently learning React and building beautiful projects.
 
-- 👨‍💻 All of my projects are available at github
+- 👨‍💻 All of my projects are available at [github](https://github.com/Olamstix)
 
 - :raising_hand: I’m in search of a job.
 - 💬 Ask me about Web Development
 
-- 📫 Contact me on <a href="olamstix@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
+- 📫 Contact me on [Gmail](olamstix@gmail.com)
+  
 - ⚡ Fun fact: I play the drums🥁
 
 
