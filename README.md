@@ -8,7 +8,7 @@ A Frontend Developer
 - :raising_hand: I’m in search of a job.
 - 💬 Ask me about Web Development
 
-- 📫 Contact me on [Gmail](olamstix@gmail.com)
+- 📫 Contact me on [Gmail](mobolajiemmanuelolamide@gmail.com)
   
 - ⚡ Fun fact: I play the drums🥁
 
