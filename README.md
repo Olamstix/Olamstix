@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mobolaji Olamide
+# Hi there 👋, I'm Olamide Mobolaji
 A Frontend Developer
     
 - :hammer: I’m currently building beautiful projects using React and NextJS.
